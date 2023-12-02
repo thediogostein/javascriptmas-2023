@@ -1,1 +1,1 @@
-# javascriptmas-2023
+# 24 days of JS/CSS challenges 💪
